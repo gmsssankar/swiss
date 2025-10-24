@@ -21,7 +21,7 @@
   {"username":"Santheep, Mb","flat":"T13-307","rating":1000,"contact":"9894181850"},
   {"username":"Jaye, Suriyaa","flat":"T4 B3 208","rating":1000,"contact":"7345121264"},
   {"username":"V.Megavarshini","flat":"T16, N2-106","rating":1000,"contact":"9840390748"},
-  {"username":"Veeraj Kishore","flat":"T12 K1-406","rating":1000,"contact":"6369935785"},
+  {"username":"Veeraj Kishore","flat":"T12 K1-406","rating":1415,"contact":"6369935785"},
   {"username":"Sarvesh Krithik, Shanmuga Babu","flat":"T21-304","rating":1000,"contact":"9094642939"},
   {"username":"Jovan, Charles","flat":"TOWER 23- 610","rating":1000,"contact":"9962070604"},
   {"username":"Jaswin, C","flat":"T7 H1 305","rating":1000,"contact":"9524890880"},
@@ -35,8 +35,7 @@
   {"username":"P. Srihari","flat":"T4 310","rating":1000,"contact":"9500050563"},
   {"username":"S.Kavin","flat":"T2 A2-102","rating":1000,"contact":"9994547560"},
   {"username":"Aneeshwar, Ganapathy","flat":"T4 B3 402","rating":1000,"contact":"9840639357"},
-  {"username":"Sushant, Tilak","flat":"T18-H1-206","rating":1000,"contact":"8760227215"},
-  {"username":"Veeraj Kishore","flat":"T12 K1-406","rating":1000,"contact":"8838490964"},
+  {"username":"Sushant, Tilak","flat":"T18-H1-206","rating":1000,"contact":"8760227215"},  
   {"username":"Kaarmugil, Saravanakumar","flat":"T4 B3 103","rating":1000,"contact":"8825654926"},
   {"username":"Poorvik, Madhav","flat":"D2-307","rating":1000,"contact":"9738891796"},
   {"username":"Harshid, Kiran","flat":"M1 304","rating":1000,"contact":"9994275353"},
@@ -46,5 +45,7 @@
   {"username":"Nishanthsai, V","flat":"D3 107 TOWER 06","rating":1000,"contact":"7411114311"},
   {"username":"Sanaa, S.B","flat":"T2 A1-103","rating":1000,"contact":"9941445742"},
   {"username":"Sajieth, Av","flat":"T2 A3-408","rating":1000,"contact":"9003816912"},
-  {"username":"Deekshita, Av","flat":"T2 A3-408","rating":1000,"contact":"9894570666"}
+  {"username":"Deekshita, Av","flat":"T2 A3-408","rating":1000,"contact":"9894570666"},
+  {"username":"Iswarya, G","flat":"T13 103","rating":1000,"contact":"9656116047"},
+  {"username":"Darshana, J","flat":"T15 104","rating":1000,"contact":"8754559647"}
 ]
